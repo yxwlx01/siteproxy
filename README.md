@@ -152,6 +152,6 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
 8. done, now you can access your domain name from browser.
 ```
 ### 联系方式
-Telegram群: @siteproxy
+Telegram: @jsyxwlx
 <br />
-email: netptop@gmail.com
+email: jxyxwlx@gmail.com
